@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋! My name is Evan Southwick</h1>
-<h3 align="center">A passionate UI Developer looking to gain more experience everday</h3>
-
+  ![Header](./github-header.png)
 ###
 
 <div align="center">
